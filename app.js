@@ -1,1 +1,1 @@
-let a =  prompt("enter the your name")
+console.log("you are welcome")
